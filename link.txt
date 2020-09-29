@@ -1,0 +1,17 @@
+/upload-file.php
+/upload_gambar.php
+/upload_audio.php
+/upload_video.php
+/upload_jawab1.php
+/upload_jawab2.php
+/upload_jawab3.php
+/upload_jawab4.php
+/upload_jawab5.php
+/upload_jawab6.php
+/upload_jawab7.php
+/upload_jawab8.php
+/upload-fotosiswa.php
+/upload-logo.php
+/upload-potosiswa.php
+/upload-potoguru.php
+/upload-banner.php
